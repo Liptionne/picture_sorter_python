@@ -1,5 +1,6 @@
 # picture_sorter python
 This little script separate RAWs and normal pictures in 2 subfolders, you can delete the normal pictures, and after you're selection, the script will delete associated RAW pictures
+**Needs Python to run**
 
 
 # How to use it
@@ -13,3 +14,5 @@ This little script separate RAWs and normal pictures in 2 subfolders, you can de
 ## Why this project ?
 
 As an amateur photographer, I usually shoot in RAW+JPG. When I comeback to my house to sort ans select good pictures to edit, I come to a point very frustating : the management of RAWs pictures by Windows. The easiest way was to sort the JPGs pictures and then work on the corresponding RAWs. I came across with the idea of a simple little python script (my only known language at this time) to make the hard work. The idea was just to delete all garbage pictures, only by knowing the ones I like.
+
+Sorry for the garbage code I have written here, I was young, and didn't know much about nice and functionnal code. I did a script only to help me in my work, not to be beautiful ...
